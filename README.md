@@ -8,6 +8,6 @@
 
 ---
 
-- I’m currently working on public / hybrid cloud products based on kubernetes at alipay.
-- I'm CNI maintainer and kubernetes member in the open source world.
+- I’m currently working on public / hybrid cloud products based on kubernetes at Alipay.
+- I'm [CNI](https://github.com/containernetworking) maintainer and kubernetes member in the open source world.
 - Ping me anytime through e-mail or wechat *marsinsider*.
