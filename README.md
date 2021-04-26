@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=mars1024&theme=buefy&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mars1024&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=mars1024&theme=blue-green&show_icons=true)
 
 <!--
 **mars1024/mars1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
