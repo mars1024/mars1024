@@ -9,5 +9,6 @@
 ---
 
 - I’m currently working on public / hybrid cloud products based on kubernetes at Alipay.
+- I'm owner of [hybridnet](https://github.com/alibaba/hybridnet), a container networking solution aiming at hybrid clouds.
 - I'm [CNI](https://github.com/containernetworking) maintainer and kubernetes member in the open source world.
 - Ping me anytime through e-mail or wechat *marsinsider*.
